@@ -1,2 +1,0 @@
-ALTER TABLE backfill_runs
-  ADD COLUMN backoff_schedule VARBINARY(200) NULL DEFAULT NULL;
