@@ -26,9 +26,9 @@
     "@types/react-timeago": "4.1.1"
   },
   "devDependencies": {
-    "@misk/dev": "0.1.26",
+    "@misk/dev": "0.6.3",
     "@misk/prettier": "0.1.26",
-    "@misk/test": "0.1.26",
+    "@misk/test": "0.6.3",
     "@misk/tslint": "0.1.26"
   },
   "jest": {
